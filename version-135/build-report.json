@@ -1,0 +1,18 @@
+{
+  "movies_parsed": 2000,
+  "m3u8_sources_extracted": 20,
+  "category_counts": {
+    "综艺动漫": 200,
+    "经典新片": 200,
+    "高清视频": 200,
+    "爱情喜剧": 200,
+    "科幻奇幻": 200,
+    "剧集频道": 200,
+    "电影频道": 200,
+    "热门好看": 200,
+    "动作悬疑": 200,
+    "亚洲视频": 200
+  },
+  "detail_pages": 2000,
+  "note": "No jpg/png/webp images are included; pages reference top-level 1.jpg to 150.jpg as requested."
+}
